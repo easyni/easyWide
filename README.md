@@ -1,9 +1,7 @@
 easyWide
 ========
 
-cropping pictures plugin
-
-========
+Cropping pictures plugin
 
 ##Documentation
 
@@ -33,7 +31,6 @@ alignement: "center" | string | "top", "bottom", "left", "right", "center"
 The alingment of the picture.
 
 ========
-
 ###Ex:
 ~~~
 <img src="my_src.jpg" alt="" class="widePic">
