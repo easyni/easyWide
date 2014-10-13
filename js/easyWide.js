@@ -1,4 +1,4 @@
-$.fn.easyWyde = function(option){
+$.fn.easyWide = function(option){
 
   var options = {
     myContainer:false,
