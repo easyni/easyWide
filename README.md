@@ -2,3 +2,5 @@ easyWyde
 ========
 
 cropping pictures plugin
+
+========
