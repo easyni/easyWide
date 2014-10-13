@@ -1,0 +1,4 @@
+easyWyde
+========
+
+cropping pictures plugin
