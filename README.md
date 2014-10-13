@@ -32,7 +32,9 @@ alignement: "center" | string | "top", "bottom", "left", "right", "center"
 
 The alingment of the picture.
 
-Ex:
+========
+
+###Ex:
 ~~~
 <img src="my_src.jpg" alt="" class="widePic">
 
