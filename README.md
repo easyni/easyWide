@@ -25,7 +25,7 @@ myContainer: false | jQuery Object
 The reference size to use for the cropping img.
 
 ~~~
-alignement: "center" | string | "top", "bottom", "left", "right", "center"
+alignement: "top", "bottom", "left", "right", "center" | string 
 ~~~
 
 The alingment of the picture.
